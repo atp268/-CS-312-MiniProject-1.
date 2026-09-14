@@ -1,7 +1,7 @@
 ﻿{
-  "name": "barebones-blog",
+  "name": "blog",
   "version": "1.0.0",
-  "description": "A basic, barebones blog web application built with Node.js, Express, and EJS.",
+  "description": "A blog web application built with Node.js, Express, and EJS.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -14,7 +14,7 @@
     "ejs",
     "crud"
   ],
-  "author": "Novice Coder",
+  "author": "Anthony Pagnotti",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.10",
