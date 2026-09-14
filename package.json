@@ -1,0 +1,23 @@
+﻿{
+  "name": "barebones-blog",
+  "version": "1.0.0",
+  "description": "A basic, barebones blog web application built with Node.js, Express, and EJS.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test_app.js"
+  },
+  "keywords": [
+    "blog",
+    "nodejs",
+    "express",
+    "ejs",
+    "crud"
+  ],
+  "author": "Novice Coder",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.0"
+  }
+}
