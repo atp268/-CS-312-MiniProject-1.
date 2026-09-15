@@ -23,7 +23,7 @@ let post_cache = [
     id: "1",
     author: "Alice",
     title: "Welcome to My Barebones Blog!",
-    content: "Hi everyone! This is my very first blog post. I built this whole website using Node.js, Express, and EJS. No external database is needed!",
+    content: "Hi everyone! This is my very first blog post. I built this whole website using Node.js, Express, and EJS.",
     createdAt: "Sep 14, 2026, 4:00 PM",
     slug: "welcome-to-my-barebones-blog",
     read_mins: 1,
